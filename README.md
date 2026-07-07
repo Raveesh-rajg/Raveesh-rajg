@@ -1,7 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raveesh%20Raj&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Intelligence%20%7C%20Data%20%26%20Business%20Analytics%20%7C%20Healthcare%20Analytics&descAlignY=58&descSize=18" alt="banner"/>
-</p>
+<h1 align="center">Hi, I'm Raveesh Raj 👋</h1>
+<h3 align="center">Business Intelligence &nbsp;·&nbsp; Data & Business Analytics &nbsp;·&nbsp; Healthcare Analytics</h3>
 
 <p align="center">
   <a href="https://github.com/Raveesh-rajg?tab=repositories">
