@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raveesh Raj 👋</h1>
-<h3 align="center">Business Intelligence &nbsp;·&nbsp; Data & Business Analytics &nbsp;·&nbsp; Healthcare Analytics</h3>
+<h3 align="center">Business Analyst</h3>
 
 <p align="center">
   <a href="https://github.com/Raveesh-rajg?tab=repositories">
@@ -19,13 +19,11 @@
 
 I'm a data & analytics professional who turns messy source data into the **dashboards, metrics, and analysis that decisions get made on**. My work runs the full path — from SQL and data modeling to BI dashboards and stakeholder-ready insight — with a habit that carries across every project: **every number is reproducible and pinned by a test, not just asserted.**
 
-**🎯 Target roles:** `Business Intelligence Engineer` · `Business Analyst` · `Healthcare Analyst` · `Data Analyst`
-
 - 📊 I live in the BI layer: **Power BI (DAX), Tableau, Looker/Looker Studio, Excel & Power Query**
 - 🧮 Strong SQL + modeling: **BigQuery, Snowflake, PostgreSQL, dbt** — clean, documented, tested marts
 - 🏥 Healthcare analytics experience: **CMS claims (DE-SynPUF), hospital price transparency (MRFs)**
 - 🧪 Analytical rigor: A/B testing, cohort & retention analysis, causal inference
-- 📫 Reach me at **raveeshrajusa24@gmail.com**
+- 📫 Reach me at **raveeshraj26@gmail.com**
 
 ---
 
@@ -66,12 +64,17 @@ I'm a data & analytics professional who turns messy source data into the **dashb
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
-**🤖 Applied AI / LLM Analytics**
+**🤖 AI & GenAI Tools**
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-2496ED?style=for-the-badge&logo=pinecone&logoColor=white)
 
 **🧰 Tooling**
 
@@ -79,6 +82,7 @@ I'm a data & analytics professional who turns messy source data into the **dashb
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 ---
 
@@ -100,7 +104,7 @@ I'm a data & analytics professional who turns messy source data into the **dashb
 <p align="center"><i>Every metric in my repos is reproducible — clone, run <code>pytest</code>, and check.</i></p>
 
 <p align="center">
-  <a href="mailto:raveeshrajusa24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="mailto:raveeshraj26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://github.com/Raveesh-rajg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
