@@ -15,6 +15,8 @@
 
 ### 👋 About me
 
+<img align="right" width="230" src="assets/profile.jpg" alt="Raveesh Raj" />
+
 I'm a data & analytics professional who turns messy source data into the **dashboards, metrics, and analysis that decisions get made on**. My work runs the full path — from SQL and data modeling to BI dashboards and stakeholder-ready insight — with a habit that carries across every project: **every number is reproducible and pinned by a test, not just asserted.**
 
 **🎯 Target roles:** `Business Intelligence Engineer` · `Business Analyst` · `Healthcare Analyst` · `Data Analyst`
