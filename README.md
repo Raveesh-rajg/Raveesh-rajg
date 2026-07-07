@@ -98,7 +98,7 @@ I'm a data & analytics professional who turns messy source data into the **dashb
 | **[Analytics RAG Agent](https://github.com/Raveesh-rajg/analytics-rag-agent)** | An agent that routes between **RAG over a data catalog** (answers cite their source docs) and **guarded text-to-SQL** on DuckDB (answers ship the exact SQL + rows). Every behavior measured by an eval harness. | `Python` `LangChain` `DuckDB` |
 
 > 📂 **[Browse all 20 repositories →](https://github.com/Raveesh-rajg?tab=repositories)** — also: causal inference, marketing attribution, GA4→BigQuery, GCP streaming, Vertex forecasting, LookML semantic layer, Power BI/DAX, Tableau storytelling, and more.
-
+ 
 ---
 
 <p align="center"><i>Every metric in my repos is reproducible — clone, run <code>pytest</code>, and check.</i></p>
