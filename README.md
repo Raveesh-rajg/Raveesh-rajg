@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Raveesh-rajg?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EA8FE&center=true&vCenter=true&width=680&lines=Turning+messy+data+into+decisions.;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+dbt+%E2%80%A2+BigQuery;Dashboards%2C+metrics%2C+and+analysis+that+hold+up." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EA8FE&center=true&vCenter=true&width=680&lines=Turning+messy+data+into+decisions.;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+dbt+%E2%80%A2+BigQuery;Dashboards%2C+metrics%2C+and+analysis+that+hold+up." alt="Typing SVG" />
   </a>
 </p>
 
