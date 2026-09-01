@@ -1,111 +1,59 @@
-<h1 align="center">Hi, I'm Raveesh Raj 👋</h1>
-<h3 align="center">Business Analyst</h3>
-
 <p align="center">
-  <a href="https://github.com/Raveesh-rajg?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EA8FE&center=true&vCenter=true&width=680&lines=Turning+messy+data+into+decisions.;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+dbt+%E2%80%A2+BigQuery;Dashboards%2C+metrics%2C+and+analysis+that+hold+up." alt="Typing SVG" />
+  <a href="https://raveesh-rajg.github.io/">
+    <img src="assets/evidence-header.svg" width="100%" alt="Raveesh Raj Grandhi, evidence-driven analytics systems" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raveesh-rajg&label=Profile%20views&color=6EA8FE&style=for-the-badge" alt="profile views" />
+  <a href="https://raveesh-rajg.github.io/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/raveeshrajg/"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://raveesh-rajg.github.io/resume.pdf"><strong>Resume</strong></a>
 </p>
 
----
+## I build the evidence path behind the decision.
 
-### 👋 About me
+I am a Clinical Business Analyst II at NYC Health + Hospitals with an M.S. in Health Informatics and an earlier clinical background in dentistry. My work sits where healthcare operations, analytics engineering, business intelligence, decision science, and applied AI meet.
 
-<img align="right" width="230" src="assets/profile.jpg" alt="Raveesh Raj" />
+I take a question from source data through modeling, validation, analysis, and a stakeholder-ready interface. Across the repositories below, one rule stays constant: a result should be reproducible, its assumptions should be visible, and its limitations should be stated before anyone acts on it.
 
-I'm a data & analytics professional who turns messy source data into the **dashboards, metrics, and analysis that decisions get made on**. My work runs the full path — from SQL and data modeling to BI dashboards and stakeholder-ready insight — with a habit that carries across every project: **every number is reproducible and pinned by a test, not just asserted.**
+## Selected systems
 
-- 📊 I live in the BI layer: **Power BI (DAX), Tableau, Looker/Looker Studio, Excel & Power Query**
-- 🧮 Strong SQL + modeling: **BigQuery, Snowflake, PostgreSQL, dbt** — clean, documented, tested marts
-- 🏥 Healthcare analytics experience: **CMS claims (DE-SynPUF), hospital price transparency (MRFs)**
-- 🧪 Analytical rigor: A/B testing, cohort & retention analysis, causal inference
-- 📫 Reach me at **raveeshraj26@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-**📊 Business Intelligence & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-
-**🗄️ SQL, Modeling & Warehousing**
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-
-**🐍 Python for Analytics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-3F51B5?style=for-the-badge&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**☁️ Data Engineering & Cloud**
-
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-**🤖 AI & GenAI Tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-2496ED?style=for-the-badge&logo=pinecone&logoColor=white)
-
-**🧰 Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it does | Stack |
+| System | Decision it supports | Proof marker |
 | :--- | :--- | :--- |
-| **[PriceScope — Hospital Price Intelligence](https://github.com/Raveesh-rajg/hospital-price-intelligence)** | Turns CMS machine-readable price files (3 format dialects, free-text charges) into a CFO-ready answer: *where are we priced above market, and what's the negotiation exposure?* Fuzzy + LLM charge mapping, graded against a gold crosswalk. | `Python` `DuckDB` `dbt` `Evidence` |
-| **[Healthcare Claims Pipeline](https://github.com/Raveesh-rajg/healthcare-claims-pipeline)** | PySpark **bronze → silver → gold** medallion on CMS DE-SynPUF claims. Duplicates, impossible service windows and orphan claims planted at known rates; quarantine reconciles to source exactly, asserted by tests. Runs identically on a laptop and Databricks. | `PySpark` `Databricks` |
-| **[GrowthLedger — Product Growth Analytics](https://github.com/Raveesh-rajg/product-growth-analytics)** | The analytics vocabulary of big-tech growth teams: growth accounting (new/retained/resurrected/churned + quick ratio), cohort retention triangles, aha-moment activation, L28 power curve — on a 421k-event log with planted mechanics. | `Python` `SQL` |
-| **[expkit — A/B Testing Framework](https://github.com/Raveesh-rajg/ab-testing-framework)** | The full experiment lifecycle: power analysis, frequentist **and** Bayesian inference, always-valid sequential testing, and validity checks (SRM, Simpson's paradox, novelty). 38 tests incl. empirical FPR checks. | `Python` `SciPy` `statsmodels` |
-| **[TokenLedger — LLM Ops & Spend Analytics](https://github.com/Raveesh-rajg/llm-ops-analytics)** | FinOps + quality analytics **on** an AI system: every LLM call traced via OpenTelemetry into a DuckDB warehouse, read out as *what a good answer costs and where spend is wasted*. 27k+ spans, planted findings caught by tests. | `Python` `DuckDB` `OpenTelemetry` |
-| **[Analytics RAG Agent](https://github.com/Raveesh-rajg/analytics-rag-agent)** | An agent that routes between **RAG over a data catalog** (answers cite their source docs) and **guarded text-to-SQL** on DuckDB (answers ship the exact SQL + rows). Every behavior measured by an eval harness. | `Python` `LangChain` `DuckDB` |
+| **[Hospital Rate Intelligence](https://github.com/Raveesh-rajg/hospital-price-intelligence)** | Where are negotiated hospital rates above a defensible market benchmark? | 93.75% description mapping against a gold crosswalk; 7/7 planted defects quarantined |
+| **[Claims Quality & Utilization Lakehouse](https://github.com/Raveesh-rajg/healthcare-claims-pipeline)** | Can utilization and cost metrics be trusted without losing malformed claims? | 98/98 planted defects isolated; clean plus quarantine reconciles exactly to source |
+| **[Experiment Decision System](https://github.com/Raveesh-rajg/ab-testing-framework)** | Is a measured lift real, durable, and safe to ship? | Naive peeking reached 24.0% false positives; always-valid mSPRT held at 1.2% |
+| **[Governed Analytics Assistant](https://github.com/Raveesh-rajg/analytics-rag-agent)** | Can teams ask the data platform questions without trading speed for governance? | 14/14 routing cases, 8/8 retrieval hit@4, 33 hermetic tests |
+| **[AI Spend & Reliability Control](https://github.com/Raveesh-rajg/llm-ops-analytics)** | Which prompts earn their cost, and where does failure waste spend? | 27,683 traced calls; retry anomaly detected at z = 5.3 |
+| **[Growth Accounting & Retention](https://github.com/Raveesh-rajg/product-growth-analytics)** | Is activity growth earned through retention or borrowed through acquisition? | 421k events; activated users retained at 45.3% versus 18.2% at week four |
 
-> 📂 **[Browse all 20 repositories →](https://github.com/Raveesh-rajg?tab=repositories)** — also: causal inference, marketing attribution, GA4→BigQuery, GCP streaming, Vertex forecasting, LookML semantic layer, Power BI/DAX, Tableau storytelling, and more.
- 
----
+**[Open the full 20-system evidence index →](https://raveesh-rajg.github.io/#archive)**
 
-<p align="center"><i>Every metric in my repos is reproducible — clone, run <code>pytest</code>, and check.</i></p>
+## How I approach the work
+
+1. **Define the decision.** Name the owner, the choice, and the cost of being wrong.
+2. **Engineer the evidence.** Make grain, lineage, exclusions, and quality contracts explicit.
+3. **Attack the answer.** Plant defects, compare baselines, test assumptions, and retain failure cases as regression tests.
+4. **Make it legible.** Build an interface that clinical, operational, and executive audiences can use confidently.
+
+## Technical range, in context
+
+| Layer | What I use it for |
+| :--- | :--- |
+| **Analytics and BI** | Tableau, Power BI, DAX, Looker, Looker Studio, Excel, and Power Query for decision-ready reporting |
+| **Data and modeling** | SQL, Snowflake, BigQuery, DuckDB, PostgreSQL, dbt, dimensional modeling, and governed semantic layers |
+| **Engineering** | Python, pandas, PySpark, Delta Lake, testing, CI, reproducible pipelines, and cloud deployment patterns |
+| **Decision science** | Experiment design, frequentist and Bayesian inference, sequential testing, causal inference, forecasting, and cohort analysis |
+| **Applied AI** | Retrieval, guarded text-to-SQL, evaluation harnesses, OpenTelemetry tracing, cost-quality analysis, and human-readable provenance |
+| **Healthcare context** | Clinical operations, provider performance, claims, utilization, hospital price transparency, and Epic-connected reporting workflows |
+
+## Current focus
+
+At work, I translate clinical and operational questions into trusted dashboards, data workflows, and analyses for leaders across a hospital environment. In the public portfolio, I use reproducible datasets and planted failure modes so the engineering and analytical decisions can be inspected without exposing confidential information.
 
 <p align="center">
-  <a href="mailto:raveeshraj26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://github.com/Raveesh-rajg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <strong>Every highlighted metric is linked to a run, an evaluation, a contract, or a test.</strong><br />
+  <a href="https://raveesh-rajg.github.io/">Enter the evidence room</a>
 </p>
-
-<!-- profile refresh -->

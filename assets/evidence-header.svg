@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Raveesh Raj Grandhi</title>
+  <description id="description">Evidence-driven analytics systems from source to decision</description>
+  <rect width="1200" height="360" fill="#f1f0e9"/>
+  <g stroke="#11110f" stroke-opacity="0.12" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+    <path d="M60 0V360M180 0V360M300 0V360M420 0V360M540 0V360M660 0V360M780 0V360M900 0V360M1020 0V360M1140 0V360"/>
+  </g>
+  <rect x="36" y="34" width="1128" height="292" fill="none" stroke="#11110f" stroke-width="2"/>
+  <rect x="36" y="34" width="1128" height="12" fill="#1f37ff"/>
+  <text x="72" y="92" fill="#1f37ff" font-family="Consolas, monospace" font-size="13" font-weight="700" letter-spacing="2">EVIDENCE ROOM / RRG / 2026</text>
+  <text x="70" y="184" fill="#11110f" font-family="Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-5">RAVEESH RAJ</text>
+  <text x="70" y="250" fill="#11110f" font-family="Georgia, serif" font-size="78" font-style="italic" letter-spacing="-5">GRANDHI</text>
+  <text x="74" y="294" fill="#4c4c45" font-family="Consolas, monospace" font-size="12" letter-spacing="1.6">CLINICAL ANALYTICS  /  DATA SYSTEMS  /  DECISION SCIENCE  /  APPLIED AI</text>
+  <g transform="translate(805 72)">
+    <g fill="none" stroke="#11110f" stroke-opacity="0.55">
+      <path d="M8 114L90 58L177 102L264 42L329 86"/>
+      <path d="M8 114L90 152L177 102L264 154L329 86"/>
+      <path d="M90 58L90 152M177 102L177 190M264 42L264 154"/>
+    </g>
+    <g fill="#1f37ff" stroke="#f1f0e9" stroke-width="3">
+      <circle cx="8" cy="114" r="8"/><circle cx="90" cy="58" r="8"/><circle cx="90" cy="152" r="8"/>
+      <circle cx="177" cy="102" r="9"/><circle cx="177" cy="190" r="8"/><circle cx="264" cy="42" r="8"/>
+      <circle cx="264" cy="154" r="8"/><circle cx="329" cy="86" r="9"/>
+    </g>
+    <g fill="#11110f" font-family="Consolas, monospace" font-size="9" font-weight="700" letter-spacing="1">
+      <text x="0" y="222">01 SOURCE</text>
+      <text x="94" y="222">02 MODEL</text>
+      <text x="184" y="222">03 VERIFY</text>
+      <text x="275" y="222">04 DECIDE</text>
+    </g>
+  </g>
+</svg>
